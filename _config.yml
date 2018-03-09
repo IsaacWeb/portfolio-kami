@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://alimov-portfolio.com" # the base hostname & protocol for your site
+url: "https://alimov-portfolio.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -18,13 +18,13 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: "isaac100670@gmail.com"
+  email_address: isaac100670@gmail.com
   behance:
   bitbucket:
   dribbble:
-  facebook: "Islam Alimov"
+  facebook:
   flickr:
-  github: "http://IsaacWeb@github.com"
+  github: IsaacWeb
   google_plus:
   instagram:
   linkedin:  # Full URL
